@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b31c78ac-4e0f-490d-a100-3fd99311d37e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/css/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/img/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/index-async.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/controllers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/directives.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/filters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/js/services.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-cookies.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-cookies.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-loader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-loader.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-resource.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-resource.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-sanitize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular-sanitize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/lib/angular/version.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/partials/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/partials/partial1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/partials/partial2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/testacular-e2e.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/testacular.conf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/e2e-test.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/e2e-test.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/test.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/test.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/watchr.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/web-server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/e2e/runner.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/e2e/scenarios.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/lib/angular/angular-mocks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/lib/angular/angular-scenario.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/lib/angular/version.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/controllersSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/directivesSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/filtersSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/servicesSpec.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="A9709-frontend.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -169,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1478072948183</updated>
-      <workItem from="1478072949579" duration="2456000" />
+      <workItem from="1478072949579" duration="3015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2456000" />
+    <option name="totallyTimeSpent" value="3015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1934" height="1056" extended-state="0" />
