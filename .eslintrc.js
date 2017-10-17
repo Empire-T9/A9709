@@ -10,6 +10,7 @@ module.exports = {
     browser: true,
   },
   // https://github.com/feross/standard/blob/master/RULES.md#javascript-standard-style
+  // https://segmentfault.com/a/1190000008742240 摆脱令人抓狂的ESlint 语法检测配置说明
   extends: 'standard',
   // required to lint *.vue files
   plugins: [
@@ -22,6 +23,8 @@ module.exports = {
     // allow async-await
     'generator-star-spacing': 0,
     // allow debugger during development
-    'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0
+    'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
+    //注释风格要不要有空格什么的
+    'spaced-comment': 0,
   }
 }
